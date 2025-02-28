@@ -14,7 +14,6 @@ This is a simple HTML-based resume webpage for **Kawther Khlif**. It presents pr
 
 ## Technologies Used
 - **HTML**: Structure of the resume.
-- **Inline CSS**: Basic styling for language proficiency visualization.
 
 ## How to Use
 1. Clone or download the repository.
